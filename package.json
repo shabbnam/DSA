@@ -1,0 +1,12 @@
+{
+  "name": "Trees",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BasicOps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
